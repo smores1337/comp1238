@@ -18,3 +18,14 @@
 - 😏 - smirk
 - 😉 - wink
   
+## Keyboard Shortcuts
+- Ctrl + C (copy)
+- Ctrl + V (paste)
+- Ctrl + Z (undo)
+
+## Shortcuts I would like to start using 
+- Alt + Tab = (switch between open apps)
+- F11 = (maximize window)
+- Ctrl + F (find)
+
+
