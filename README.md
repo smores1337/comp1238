@@ -28,4 +28,4 @@
 - F11 = (maximize window)
 - Ctrl + F (find)
 
-
+[CLI commands](docs/cli.md)
