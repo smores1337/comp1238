@@ -13,7 +13,7 @@
 - [Number System Chart] (https://www.rapidtables.com/math/number/Numeral_system.html)
 - [Reddit] (https://www.reddit.com/)
 - [W3Schools] (https://www.w3schools.com/)
-# Expirements 
+# Experiments 
 - 😊 - blush
 - 😏 - smirk
 - 😉 - wink
