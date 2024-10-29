@@ -1,11 +1,15 @@
 ---
 - name: James Brown
-- sports: Basketball
+  sports: Basketball
   team:
     name: Raptors
     city: Toronto
-- name: Kobe Delacruz
-- sports: Basketball
+    position: Forward
+    age: '24'
+- name: Lebron Padilla
+  sports: Basketball
   team:
-    name: Warriors
-    city: Los Angeles
+    name: Raptors
+    city: Toronto
+    position: Point Guard
+    age: '27'
