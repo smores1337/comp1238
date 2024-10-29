@@ -1,0 +1,11 @@
+---
+- name: James Brown
+- sports: Basketball
+  team:
+    name: Raptors
+    city: Toronto
+- name: Kobe Delacruz
+- sports: Basketball
+  team:
+    name: Warriors
+    city: Los Angeles
