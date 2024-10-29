@@ -1,26 +1,24 @@
 [
     {
-        "name": "James Brown"
-    },
-    {   
+        "name": "James Brown",
         "sports": "Basketball",
         "team": {
             "name": "Raptors",
-            "city": "Toronto"
+            "city": "Toronto",
+            "position": "Forward",
+            "age": "24"
         }
     },
-
-  	{
-        "name": "Kobe Delacruz"
-    },
-    {   
+    {
+        "name": "Lebron Padilla",
         "sports": "Basketball",
-        "team": { 
-            "name": "Warriors",
-            "city": "Los Angeles"
+        "team": {
+            "name": "Raptors",
+            "city": "Toronto",
+            "position": "Point Guard",
+            "age": "27"
         }
     }
-
-
-		
 ]
+
+
